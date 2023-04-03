@@ -1,0 +1,38 @@
+{
+  "QCustomSlideMenu": [
+    {
+      "name": "side_menu_frame",
+      "defaultSize": [
+        {
+          "width": "auto",
+          "height": "auto"
+        }
+      ],
+
+      "collapsedSize": [
+        {
+          "width": 0,
+          "height": 0
+        }
+      ],
+
+      "expandedSize": [
+        {
+          "width": "auto",
+          "height": "auto"
+        }
+      ],
+
+      "pushButton_8": [
+        {
+          "icons": [
+            {
+              "whenMenuIsCollapsed": "icons/align-left.svg",
+              "whenMenuIsExpanded": "icons/chevron-left.svg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

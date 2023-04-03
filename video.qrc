@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>vi.gif</file>
+    <file>Avengers.mp4</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>v.mp4</file>
+  </qresource>
+</RCC>

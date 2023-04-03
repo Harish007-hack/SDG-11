@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>reformed.JPG</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>bg.jpg</file>
+  </qresource>
+</RCC>
